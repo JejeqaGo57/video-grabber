@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="video-grabber" width="840" />
-
 # Video Grabber — Video Grabber — Universal Video Downloader for Windows (Portable x64 Build, JSON Configuration)
 
 <p><strong>Video Grabber — Video Grabber — Universal Video Downloader for Windows (Portable x64 Build, JSON Configuration): Download videos from any site — one tool, zero watermarks. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
